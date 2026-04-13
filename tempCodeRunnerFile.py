@@ -1,0 +1,1 @@
+class_names = sorted(os.listdir("dataset"))

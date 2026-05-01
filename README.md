@@ -51,5 +51,6 @@ Download dataset from Kaggle and place inside `dataset/` folder.
 * Predicts: Bacterial Spot, Early Blight, Healthy
 
 ## 👨‍💻 Author
-
-Your Name
+Rohit Mahto
+Anil kr Sharma
+Taslim Ansari
